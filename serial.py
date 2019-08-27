@@ -1,4 +1,4 @@
-mport serial, time
+import serial, time
 ser = serial.Serial()
 
 ser.port = "COM11"
